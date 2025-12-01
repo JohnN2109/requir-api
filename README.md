@@ -1,4 +1,5 @@
 **Automatizované API testy – Python + Pytest**
+
 Tento projekt obsahuje automatizované testy REST API na základe zadania „Technical Task #2 – API test automation“ 
 
 Testovaným systémom je verejné API: **https://reqres.in/**
