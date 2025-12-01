@@ -9,17 +9,6 @@ Testovaným systémom je verejné API: **https://reqres.in/**
 - **Requests** – HTTP klient pre posielanie API požiadaviek
 - **JSON fixtures** – externý zdroj testovacích dát (data-driven testing)
 
-Štruktúra projektu
-requir_api_tests/
-│
-├── tests/
-│ ├── test_get_users.py # Test scenár 1 – GET /users
-│ ├── test_create_user.py # Test scenár 2 – POST /users (data-driven)
-│
-├── data/
-│ └── users.json # Externé testovacie dáta pre POST test
-│
-├── requirements.txt # Python závislosti
 
 **Inštalácia**
 **terminal**
